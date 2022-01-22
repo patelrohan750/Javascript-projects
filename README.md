@@ -16,6 +16,6 @@
 | Meme generator in javascript | https://meme-generator-in-javascript.netlify.app/ |
 | Random Hex Color Generator in javascript | https://random-hex-color-gennerator-in-js.netlify.app/ |
 | Number Guessing Game in JavaScript | https://number-guessing-game-javascript.netlify.app/ |
-| Digital in JavaScript | https://app.netlify.com/sites/digital-clock-in-javascript/settings/domain |
+| Digital in JavaScript | https://digital-clock-in-javascript.netlify.app/ |
 
 
