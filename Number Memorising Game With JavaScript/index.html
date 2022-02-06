@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Memorising Game In JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>JavaScript Game</h1>
+        <button id="end" class="hide">End game</button>
+
+        <p id="total"></p>
+        <div id="level">
+            <p>Select difficulty:</p>
+            <button id="easy" class="difficulty">Easy</button>
+            <button id="medium" class="difficulty">Medium</button>
+            <button id="hard" class="difficulty">Hard</button>
+        </div>
+
+        <div id="game" class="hide">
+            <div id="numbers"></div>
+            <form>
+                <label for="answer">Type in number</label>
+                <input type="text" id="answer" autocomplete="off">
+                <button type="submit" id="submit">Submit</button>
+            </form>
+
+            <div id="feedback"></div>
+
+            <button id="next" class="hide">Next</button>
+        </div>
+    </div>
+
+
+    <script src="index.js"></script>
+</body>
+</html>
