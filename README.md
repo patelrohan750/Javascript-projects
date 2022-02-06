@@ -7,6 +7,7 @@
 - Random Hex Color Generator in javascript
 - Number Guessing Game in JavaScript
 - Digital Clock in javascript
+- Number Memorising Game in JavaScript
 
 
 
@@ -17,5 +18,6 @@
 | Random Hex Color Generator in javascript | https://random-hex-color-gennerator-in-js.netlify.app/ |
 | Number Guessing Game in JavaScript | https://number-guessing-game-javascript.netlify.app/ |
 | Digital in JavaScript | https://digital-clock-in-javascript.netlify.app/ |
+| Number Memorising Game in JavaScript | https://number-memorising-game-js.netlify.app/ |
 
 
