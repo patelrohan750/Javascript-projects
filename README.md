@@ -8,6 +8,8 @@
 - Number Guessing Game in JavaScript
 - Digital Clock in javascript
 - Number Memorising Game in JavaScript
+- Automatic Image Slider In HTML CSS and Javascript
+- JavaScript Form Validation
 
 
 
@@ -20,5 +22,6 @@
 | Digital in JavaScript | https://digital-clock-in-javascript.netlify.app/ |
 | Number Memorising Game in JavaScript | https://number-memorising-game-js.netlify.app/ |
 | Automatic Image Slider In HTML CSS and Javascript | https://automatic-image-slider-html-css.netlify.app/ |
+| JavaScript Form Validation | https://javascript-form-validation-beginners.netlify.app/ |
 
 
