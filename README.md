@@ -25,3 +25,5 @@
 | JavaScript Form Validation | https://javascript-form-validation-beginners.netlify.app/ |
 
 
+## Tools
+- <a href="https://rocoderes.com/google-drive-direct-download-link-generator/" rel="dofollow"> Google Drive Download Link Generator</a> 
